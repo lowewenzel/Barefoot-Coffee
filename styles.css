@@ -508,8 +508,6 @@ p a:hover {
 /* --- grit texture mask from: https://www.viget.com/articles/easy-textures-with-css-masks/ --- */
 
 .grit {
-  -webkit-mask-image: url("http://support.nature.org/images/earth/assets/grit.png");
-  mask-image: url("http://support.nature.org/images/earth/assets/grit.png");
 }
 
 
